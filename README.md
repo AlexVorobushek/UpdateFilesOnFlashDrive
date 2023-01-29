@@ -1,1 +1,2 @@
-# UpdateFilesOnFlashDrive
+# Update files on a flash drive
+перед запуском программы нужно открыть файл sourse.json и указать главную директорию, из которой будут копироваться все изменения, и дочернюю. 
